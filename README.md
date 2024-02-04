@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fabrich</h1>
+<h1 align="center">Hi 👋, I'm Fabrich Vohanson</h1>
 <h3 align="center">IT self-educated and has been IT Student at HEI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyh1409&label=Profile%20views&color=0e75b6&style=flat" alt="nyh1409" /> </p>
