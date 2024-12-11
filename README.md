@@ -1,24 +1,45 @@
-<h1 align="center">Hi 👋, I'm Fabrich Vohanson</h1>
-<h3 align="center">IT self-educated and has been IT Student at HEI</h3>
+# 👨‍💻 Fabrich - Codeur Passionné et Explorateur du Web 🚀
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyh1409&label=Profile%20views&color=0e75b6&style=flat" alt="nyh1409" /> </p>
+![header](https://via.placeholder.com/1200x300?text=Bienvenue+sur+mon+GitHub+!+🌟)
 
-- 🌱 I’m currently learning **React, Node js**
+Bienvenue sur mon univers numérique ! Ici, chaque ligne de code reflète ma passion pour le développement, ma curiosité insatiable et mon envie d'innover. 🌍✨  
 
-- 📫 How to reach me **hei.fabrich.2@gmail.com  / fabrichjean@gmail.com**
+## 🌟 Qui suis-je ?  
 
+👋 **Salut !** Je suis **Fabrich**, un développeur passionné spécialisé dans **JavaScript**, **ReactJS**, et **Node.js**.  
+Je suis toujours à la recherche de nouveaux défis pour repousser mes limites et explorer les horizons technologiques.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/fabrich-vohanson-5aa669281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabrich.vohanson" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100069735850632" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fabrich.vohanson" height="30" width="40" /></a>
-</p>
+- 🎓 **Apprenant perpétuel** : Toujours en quête d'apprentissage et d'amélioration.  
+- 🔭 Actuellement : Je construis des projets autour de **Vue.js**, **NestJS**, et des outils basés sur **TypeScript**.  
+- 🌟 **Objectif de vie** : Simplifier la technologie et rendre le développement accessible à tous.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-</p>
+## 🛠️ Mes outils préférés  
+
+### Langages et Frameworks  
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat-square&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)  
+
+### Outils et Environnements  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+
+## 📈 Mes statistiques GitHub  
+
+![Stats](https://github-readme-stats.vercel.app/api?username=fabrich&show_icons=true&theme=radical)  
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=fabrich&layout=compact&theme=radical)  
+
+## 🎯 Projets en cours  
+
+- 🌐 **[Silver](#)** : Une application de transfert de fichiers en temps réel comme Xender.  
+- ✍️ **Blog Portfolio** : Exploration de mes idées sur le web moderne.  
+- 🛠️ **Framework Go** : Création d'un framework inspiré de NestJS avec des fonctionnalités uniques.  
+
+## 📢 Envie de collaborer ?  
+
+📩 Tu peux me contacter via :  
+- [LinkedIn](#)  
+- [Twitter](#)  
