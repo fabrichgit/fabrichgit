@@ -1,4 +1,4 @@
-# 👨‍💻 Fabrich - Entrepreneur et Explorateur du Web 🚀
+# 👨‍💻 Fabrich - Programer , Business Owner 🚀
 
 
 ```js
